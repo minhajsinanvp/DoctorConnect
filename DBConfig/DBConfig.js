@@ -16,7 +16,7 @@ connection.on("connected", ()=>{
 
 
 connection.on("erro", (error)=>{
-    console.log("error is occuredddddddddddddddddd");
+    console.log("error is occurred");
 })
 
 
